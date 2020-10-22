@@ -1,4 +1,5 @@
 # cource-template
+XYZ
 
 ## Course Information
 * Course Number : XX-9999
